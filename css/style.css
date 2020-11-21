@@ -1,0 +1,165 @@
+body {
+  background-color: white;
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  display: inline-block;
+}
+
+h2 {
+  color: #f05454;
+  font-family: 'Modak', cursive;
+  font-weight: lighter;
+  font-size: 4.5rem;
+  text-align: center;
+}
+
+h3 {
+  color: #f05454;
+  font-family: 'Lato', sans-serif;
+  font-size: 2rem;
+  text-align: center;
+  margin: 0;
+}
+
+.logo {
+  display: inline-block;
+  height: 50px;
+  margin: auto 10px;
+}
+
+.header-bar {
+  background-color: #0F631E;
+  text-align: center;
+}
+
+.options {
+  height: 350px;
+}
+
+.option-learn {
+  display: inline-block;
+  margin: 20px;
+  width: 30%;
+  background-color: #30475e;
+  border-radius: 20px;
+}
+
+.option-revise {
+  display: inline-block;
+  margin: 20px;
+  width: 30%;
+  background-color: #30475e;
+  border-radius: 20px;
+}
+
+.option-test {
+  display: inline-block;
+  margin: 20px;
+  width: 30%;
+  background-color: #30475e;
+  border-radius: 20px;
+}
+
+.planet {
+  width: 100%;
+  margin-top: -10%;
+}
+
+.rocket {
+height: 200px;
+float: right;
+margin-right: 10%;
+margin-top: 10%
+}
+
+.topic1 {
+  display: inline-block;
+  margin: 20px;
+  width: 20%;
+  background-color: #30475e;
+  border-radius: 10px;
+}
+
+.topic2 {
+  display: inline-block;
+  margin: 20px;
+  width: 20%;
+  background-color: #30475e;
+  border-radius: 10px;
+}
+
+.topic3 {
+  display: inline-block;
+  margin: 20px;
+  width: 20%;
+  background-color: #30475e;
+  border-radius: 10px;
+}
+
+.topic4 {
+  display: inline-block;
+  margin: 20px;
+  width: 20%;
+  background-color: #30475e;
+  border-radius: 10px;
+}
+
+.topic5 {
+  display: inline-block;
+  margin: 20px;
+  width: 20%;
+  background-color: #30475e;
+  border-radius: 10px;
+}
+
+.topic6 {
+  display: inline-block;
+  margin: 20px;
+  width: 20%;
+  background-color: #30475e;
+  border-radius: 10px;
+}
+
+.topic7 {
+  display: inline-block;
+  margin: 20px;
+  width: 20%;
+  background-color: #30475e;
+  border-radius: 10px;
+}
+
+.topic8 {
+  display: inline-block;
+  margin: 20px;
+  width: 20%;
+  background-color: #30475e;
+  border-radius: 10px;
+}
+
+.top-section {
+  background-color: #03002C;
+}
+
+.welcome {
+  color: #f05454;
+  font-family: 'Modak', cursive;
+  font-weight: lighter;
+  font-size: 4.5rem;
+  text-align: left;
+  margin-left: 10%;
+  margin: 0 auto 0 10%;
+  padding-top: 5%;
+}
+
+.welcome2 {
+  color: #f05454;
+  font-family: 'Lato', sans-serif;
+  font-size: 2rem;
+  text-align: left;
+  margin: 0 0 0 10%;
+  width: 35%;
+}
